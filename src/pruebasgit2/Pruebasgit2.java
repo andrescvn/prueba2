@@ -15,24 +15,11 @@ public class Pruebasgit2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-   
-    int naranjas=8;
+        // TODO code application logic     
     
- 
-    int fresas=12;
     
-    int resultado=(naranjas+fresas);
     
-    System.out.print("En la cocina tenemos " +resultado + " piezas de fruta");
 
-    
-    
-    
-    
-    
-    
-    
     
     
     }
