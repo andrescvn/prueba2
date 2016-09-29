@@ -17,7 +17,15 @@ public class Pruebasgit2 {
     public static void main(String[] args) {
         // TODO code application logic here
    
+    int naranjas=8;
     
+ 
+    int fresas=12;
+    
+    int resultado=(naranjas+fresas);
+    
+    System.out.print("En la cocina tenemos " +resultado + " piezas de fruta");
+
     
     
     
